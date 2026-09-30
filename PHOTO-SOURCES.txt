@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-067-pacheco Pacheco's Masonry (Wave 14 2026-09-30 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 14 files: see builds/_assets_dl/wave14/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave14/mason-bucket-trowel.jpg : Bucket and trowel on a job site; no people (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Throwel_in_a_bucket.JPG)
+services-trade.jpg <- wave14/mason-trowels-hung.jpg : Trowels hanging on a post (rawpixel CC0 1.0 https://www.rawpixel.com/image/5924286/trowel-free-public-domain-cc0-photo)
+people-crew.jpg <- wave14/mason-house-base.jpg : House with a masonry base along the front (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:St_Pete_Standard_Oil_4.jpg)
+people-marek.jpg <- wave14/mason-tools-flat.jpg : Hand tools and work boots laid out on a bench (stocksnap CC0 1.0 https://stocksnap.io/photo/construction-tools-EJZBX7UMTV)
+people-tom.jpg <- wave14/mason-unit-bench.jpg : A single masonry unit on a workbench (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Brick.jpg)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+mason-wall-worn.jpg <- wave14/mason-wall-worn.jpg : Old, weathered masonry wall along a yard (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Concrete_block_wall_-_Arlington,_MA_-_01.jpg)
+mason-wall-yard-new.jpg <- wave14/mason-wall-yard-new.jpg : New masonry wall along a yard, trees behind (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=168710039)
+mason-wall-cracked.jpg <- wave14/mason-wall-cracked.jpg : Old masonry wall with a crack running through it (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Stone_wall_-_Arlington,_MA_-_20200726_095639.jpg)
+mason-wall-laid.jpg <- wave14/mason-wall-laid.jpg : Neatly laid masonry wall (flickr CC0 1.0 https://www.flickr.com/photos/68782296@N04/6343998733)
+mason-wall-crumbling.jpg <- wave14/mason-wall-crumbling.jpg : Worn masonry with crumbling joints (flickr CC0 1.0 https://www.flickr.com/photos/136594255@N06/23322272263)
+mason-wall-rail.jpg <- wave14/mason-wall-rail.jpg : Clean masonry wall beside a railing (stocksnap CC0 1.0 https://stocksnap.io/photo/brick-wall-S0IKYGYPX4)
+
+Note: New trade (masonry): wave14 set, and no person appears in any photo on the page. Services come from the packet trade class only, so the page says masonry and names no materials or kinds of masonry work. The unrelated out-of-state business that holds the same-name domain and the no-DNS pacheco names are NOT used or linked; domain ideas avoid those strings. The possible family member in the packet notes is not named.
